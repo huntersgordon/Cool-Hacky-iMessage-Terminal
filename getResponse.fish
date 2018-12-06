@@ -19,7 +19,11 @@ while true
   if [ $x = 1 ]
     cat $a > temp.ichat;
     plutil -convert xml1 temp.ichat
-    ./a.out
+    set response (./a.out)
+    echo $response
+    if [ $response = "turn the lights down low" ]
+       #do something
+    end
     echo ""
   end
   set x 1
