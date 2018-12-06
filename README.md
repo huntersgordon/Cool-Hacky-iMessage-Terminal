@@ -1,9 +1,9 @@
 # iMessage-Client-Mojave
-So... Apple took off AppleScript handling, and now you can't receive iMessages thru terminal?
+So... Apple took off AppleScript handling, and now you can't receive iMessages through your terminal?
 
 Not to worry.
 
-This iMessage client is a solution to that problem.
+This iMessage client is a solution to your problem.
 
 # Installation
 
