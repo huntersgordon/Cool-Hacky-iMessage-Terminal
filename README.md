@@ -22,3 +22,9 @@ Lastly, place temp.ichat, getResponse.fish, and a.out in that messages folder.
 to run:
 
 ```fish getResponse.fish```
+
+This is a crude remedy to what Apple seems to want to obfuscate. Why??? Let me automate please.
+
+# What I'm doing:
+
+It seems that approx. 15 seconds after Messages receives a text, it writes the transcript to a '.ichat' file in that day's directory. So, I convert the .ichat file to a plist and parse through that resulting document, noting that the last received text is located two strings before a certain "NSArray" declaration. This seems arbitrary. I let my C++ do that string parsing. Perhaps there is an easier way to go about this.
