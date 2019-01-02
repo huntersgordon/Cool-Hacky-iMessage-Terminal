@@ -25,6 +25,6 @@ If you want to execute a command just message your command to anyone (or anyone 
 
 This is a crude remedy to what Apple seems to want to obfuscate. 
 
-# What I'm doing:
+# What I'm doing (n/a):
 
 It seems that approx. 15 seconds after Messages receives a text, it writes the transcript to a '.ichat' file in that day's directory. So, I convert the .ichat file to a plist and parse through that resulting document, noting that the last received text is located two strings before a certain "NSArray" declaration. This seems arbitrary. I let my C++ do that string parsing. Perhaps there is an easier way to go about this that involves indexing the plist.
