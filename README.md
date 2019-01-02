@@ -21,7 +21,8 @@ to run:
 
       bash messageClient.sh;
       sleep 3;
-   end```
+   end
+   ```
 
 This is a crude remedy to what Apple seems to want to obfuscate. Why??? Let me automate please.
 
