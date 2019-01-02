@@ -15,13 +15,10 @@ then cd into the directory of the current day. (iMessage will have created the d
 
 Copy temp.ichat, messageClient.sh, and a.out in the current day's messages folder. Create a blank temp.ichat file.
 
-to run: (in fish shell)
+to run: 
 
 ```
-   while true
-      bash messageClient.sh;
-      sleep 3;
-   end
+   while true; do bash messageClient.sh; sleep 3; done
    ```
 
 This is a crude remedy to what Apple seems to want to obfuscate. 
