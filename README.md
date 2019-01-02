@@ -13,12 +13,12 @@ First, cd into your messages archive folder.
 
 then cd into the directory of the current day. (iMessage will have created the directory if you messaged someone that day already.) i.e. ```cd 2018-12-06```
 
-Copy temp.ichat, messageClient.sh, and a.out in that messages folder.
+Copy temp.ichat, messageClient.sh, and a.out in the current day's messages folder. Create a blank temp.ichat file.
 
-to run:
+to run: (in fish shell)
 
-```while true
-
+```
+   while true
       bash messageClient.sh;
       sleep 3;
    end
