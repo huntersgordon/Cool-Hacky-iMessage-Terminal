@@ -47,6 +47,14 @@ int main(){
       cout << reverse(nextString(conversation.substr(conversation.find(nextString(conversation.substr(pos+15)))+nextString(conversation.substr(pos+15)).length()+8)));
       exit (EXIT_FAILURE);
     }
+    
+    findAllOccurances(vec, conversation , reverse("NSMutableArray"));
+  	for(size_t pos : vec)
+      if (nextString(conversation.substr(pos+15)).find('-') != string::npos){ //we've found a hyphen
+        //look for the string before it. cout it and the program will exit.
+        cout << reverse(nextString(conversation.substr(conversation.find(nextString(conversation.substr(pos+15)))+nextString(conversation.substr(pos+15)).length()+8)));
+        exit (EXIT_FAILURE);
+      }
 
   findAllOccurances(vec, conversation , reverse("InstantMessage"));
   size_t ourGuy = 0; //impeccable nomenclature
