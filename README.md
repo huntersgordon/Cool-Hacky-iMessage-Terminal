@@ -20,6 +20,8 @@ to run:
 ```
    while true; do bash messageClient.sh; sleep 3; done
    ```
+   
+If you want to execute a command just message your command to anyone (or anyone can message you) followed by a semicolon and it will be executed!
 
 This is a crude remedy to what Apple seems to want to obfuscate. 
 
