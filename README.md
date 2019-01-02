@@ -24,7 +24,7 @@ to run: (in fish shell)
    end
    ```
 
-This is a crude remedy to what Apple seems to want to obfuscate. Why??? Let me automate please.
+This is a crude remedy to what Apple seems to want to obfuscate. 
 
 # What I'm doing:
 
