@@ -29,6 +29,6 @@ This is a crude remedy to what Apple seems to want to obfuscate.
 
 It seems that approx. 15 seconds after Messages receives a text, it writes the chat to a '.ichat' "binary1"-formatted file in the current day's directory. So, I convert the .ichat file to xml1 and parse through that resulting document, noting that the last received text is located two strings before an "NSArray", "NSMutableArray", or "InstantMessage" string declaration, AND directly before a hyphenated string declaration. C++ Does the string parsing. 
 
-shown below: the last message, "say 4;" is 2 strings before the "Instant Message" string, and 1 string before the hyphenated string. (Perhaps this is an ID for that specific message...)
+shown below: the last message, "say 4;" can be found 2 strings before the "Instant Message" string, and 1 string before the hyphenated string. (Perhaps this is an ID for that specific message...)
 
 ![alt text](http://www.calhat.com/juulpics/example.png)
