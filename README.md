@@ -22,7 +22,7 @@ to run:
 ```
    while true; do bash messageClient.sh; sleep 3; done
    ```
-# Running commands through iMessage
+# Running commands through iMessage (iPhone as a terminal)
 
 If you want to execute a command, just message your command to anyone (or anyone can message you) followed by a semicolon and it will be executed!
 
