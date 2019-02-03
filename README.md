@@ -13,7 +13,7 @@ This iMessage client is a solution to your problem.
 
 then cd into the directory of the current day.  i.e. ```cd 2018-12-06```
 
-Copy messageClient.sh and getResponse.cpp into to the current day's messages folder. 
+Copy messageClient.sh, getResponse.cpp, and messageSender.sh into to the current day's messages folder. 
 
 ```g++ getResponse.cpp```
 
