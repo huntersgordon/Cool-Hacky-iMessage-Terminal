@@ -24,6 +24,8 @@ to run:
    ```
 # Running commands through iMessage (iPhone as a terminal)
 
+Change line 16 and 17 to your phone number, or wherever you'd like to recieve your terminal output.
+
 If you want to execute a command, just message your command to anyone (or anyone can message you) followed by a semicolon and it will be executed!
 
 texting your computer ```say hi;``` will make it say hi. ```ls;``` lists current directory, etc. Be creative!
