@@ -26,6 +26,8 @@ to run:
 
 If you want to execute a command, just message your command to anyone (or anyone can message you) followed by a semicolon and it will be executed!
 
+texting your computer ```say hi;``` will make it say hi. ```ls;``` lists current directory, etc. Be creative!
+
 
 # Notes
 
