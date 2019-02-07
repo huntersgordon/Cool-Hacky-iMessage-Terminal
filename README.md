@@ -1,5 +1,7 @@
 # iMessage-Client-Mojave
-You may want to [disable rootless mode](https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/)
+You may want to [disable rootless mode]
+
+(https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/)
 So... Apple took off AppleScript handling, and now you can't receive iMessages through your terminal?
 
 Not to worry.
