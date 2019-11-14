@@ -1,4 +1,4 @@
-# iMessage-Client-Mojave
+# iMessage-Terminal
 
 Control your Mac through sending it text messages!
 This tool takes messages your Mac receives via the Messages app and executes them through the bash shell. Output is sent back to the user.
