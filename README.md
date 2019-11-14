@@ -1,6 +1,7 @@
 # iMessage-Client-Mojave
 
-Control your computer through sending it imessages!
+Control your Mac through sending it text messages!
+This tool takes messages your Mac receives via the messages app and executes them through the bash shell. Output is sent back to the user.
 
 # Installation
 
