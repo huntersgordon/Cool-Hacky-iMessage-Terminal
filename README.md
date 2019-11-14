@@ -1,9 +1,10 @@
 # iMessage-Client-Mojave
-[disable rootless mode](https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/)if you want this to work.
 
 Control your computer through sending it imessages!
 
 # Installation
+
+OS X 10.14+: [disable rootless mode](https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/)if you want this to work.
 
 ```open -a messages.app```
 
